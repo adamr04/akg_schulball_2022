@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Schulball - Akademisches Gymnasium Wien"}},"allMdx":{"totalCount":3,"edges":[{"node":{"excerpt":"Vier (4) Fotos Baby-, Kinder-, Jugendfotos - alles ist möglich alle gängigen Formate: jpg, png, etc. Auflösung 300 dpi optimal Text zur…","fields":{"slug":"/ballzeitung/"},"frontmatter":{"order":1,"title":"Ballzeitung","description":"Was wir für die Ballzeitung brauchen.","tags":null}}},{"node":{"excerpt":"","fields":{"slug":"/sponsors/"},"frontmatter":{"order":2,"title":"Unsere Sponsoren","description":"Danke an unsere Unterstützer*innen und Sponsoren.","tags":null}}},{"node":{"excerpt":"Ballprogramm 19:00 -> Einlass 21:00 -> Balleröffnung 22:30 -> Diskothek öffnet 24:00 -> Mitternachtseinlage 03:00 -> Ballschluss Konto- und…","fields":{"slug":"/about/"},"frontmatter":{"order":3,"title":"Über uns","description":"Informationen zum Schulball des Akademischen Gymnasiums","tags":null}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383"]}
